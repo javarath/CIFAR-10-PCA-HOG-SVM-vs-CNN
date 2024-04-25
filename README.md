@@ -23,6 +23,7 @@ PCA is a statistical technique used in machine learning and data analysis. It's 
 
 # Histogram of Oriented Gradients (HOG):
 ![image](https://github.com/javarath/CIFAR-10-PCA-HOG-SVM-vs-CNN/assets/102171533/ccbfccf3-e6eb-40f6-9c08-42da91cf8d40)
+
 Reference: https://customers.pyimagesearch.com/lesson-sample-histogram-of-oriented-gradients-and-car-logo-recognition/
 
 
